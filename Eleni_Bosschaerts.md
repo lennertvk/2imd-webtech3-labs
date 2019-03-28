@@ -31,7 +31,7 @@ Link to Codepen [Lab3 - ES6 NotesApp](https://codepen.io/Eleni_1/pen/Qovaja)
 
 Files [Lab3 - ES6 NotesApp](https://github.com/EleniBosschaerts/2imd-webtech3-portfolio/tree/master/lab3%20-%20ES6/lab3-ES6_NotesApp)
 
-## [Lab 4 - API App Protoype](https://github.com/EleniBosschaerts/2imd-webtech3-portfolio/tree/master/lab4%20-%20)
+## [Lab 4 - API App Protoype](https://github.com/EleniBosschaerts/2imd-webtech3-portfolio/tree/master/lab4%20-%20appPrototype)
 
 ### Prototype Weather App 
 Weather app that gives movie suggestion (within a certain genre) based on the weather.
