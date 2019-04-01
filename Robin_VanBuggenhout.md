@@ -19,6 +19,11 @@
 ### Codepen IMDstagram
 [Link naar codepen IMDstagram](https://codepen.io/RobinVb/pen/Jzbrdv)
 
+## [Week 3 - ES6](https://github.com/robinvanbuggenhout/webtech3-portfolio/tree/master/lab3%20-%20ES6/ES6)
+
+### Codepen ES6 - Notes App
+[Link naar codepen ES6](https://codepen.io/RobinVb/pen/aMWLqW?editors=0110)
+
 ## [Week 4 - API](https://github.com/robinvanbuggenhout/webtech3-portfolio/tree/master/lab4%20-%20App%20API/weather)
 
 ### Codepen API - Weather/Giphy
