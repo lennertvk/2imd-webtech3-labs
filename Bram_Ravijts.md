@@ -4,3 +4,4 @@
 [link lab 2](https://github.com/Zenandor/webtech3-lab2) <br/>
 [link lab 3](https://github.com/Zenandor/ES6)<br/>
 [link lab 4](https://github.com/Zenandor/Webtech3-Lab4)<br/>
+[link lab 5](https://github.com/Zenandor/Webtech3-lab5) [linkt to codepen](https://codepen.io/Zenandor/pen/VNYMRe?editors=1010)<br/>
