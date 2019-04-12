@@ -6,3 +6,4 @@ Annelies Bellon
 * [Link lab 3](https://github.com/AnneliesB/webtech3-portfolio/tree/master/Lab3)
 * [Link lab 4](https://github.com/AnneliesB/webtech3-portfolio/tree/master/Lab4)
 * [Link lab 5](https://github.com/AnneliesB/webtech3-portfolio/tree/master/Lab5)
+* [Link lab 6 - private](https://github.com/AnneliesB/webtech3-portfolio-lab6) || [Heroku: Poll Maker (met localstorage)](http://young-fjord-74581.herokuapp.com/createpoll)
