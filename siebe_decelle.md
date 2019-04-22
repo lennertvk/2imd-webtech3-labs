@@ -26,7 +26,7 @@
 [Link naar app op codepen](https://codepen.io/Siebe2/pen/OqBvwG)
 
 ## Labo 5 - nodejs
-[Linknaar labo 5](https://github.com/siebedc2/lab-5)
+[Link naar labo 5](https://github.com/siebedc2/lab-5)
 
 ## Codepen
 [Link naar tester op codepen](https://codepen.io/Siebe2/pen/oOMLmz)
