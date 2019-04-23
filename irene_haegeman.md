@@ -25,3 +25,7 @@ Note: API keys are not visible in codepen.
 
 * [Link to folder](https://github.com/haeirene/2imd-webtech3-portfolio/tree/api_db)
 * [Link to codepen](https://codepen.io/haeirene/pen/xeKabW)
+
+## Lab 6 - Websockets
+* [Link to folder](https://github.com/haeirene/2imd-webtech3-portfolio/tree/lab6) (private repo)
+* [Link to heroku](https://pink-w3-lab06.herokuapp.com/)
